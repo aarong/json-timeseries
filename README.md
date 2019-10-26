@@ -480,4 +480,4 @@ format. For maximum flexibility, this is left to the application/library.
 
 ## Implementations
 
-[Javascript: TimeSeries.js](https://github.com/aarong/time-series-js)
+[Javascript: Chronology.js](https://github.com/aarong/chronology)
